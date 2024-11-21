@@ -17245,7 +17245,7 @@
 	"_uplinks": {
 		"npmjs": {
 			"etag": "W/\"fdcb157a662893ba4945d18dc6e37ac6\"",
-			"fetched": 1732189676547
+			"fetched": 1732190335419
 		}
 	},
 	"_distfiles": {
@@ -18310,7 +18310,7 @@
 			"shasum": "786e2d67cfd95e32862143abe7463a7f90c300eb"
 		}
 	},
-	"_rev": "2-d3623fc747a54f9d",
+	"_rev": "3-580d7fc727de0c06",
 	"_id": "@types/lodash",
 	"readme": "[object Object]"
 }

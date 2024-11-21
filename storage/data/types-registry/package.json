@@ -43750,7 +43750,7 @@
 	"_uplinks": {
 		"npmjs": {
 			"etag": "W/\"33acaee4fe5f2acf3573787b21fad4c4\"",
-			"fetched": 1732189675019
+			"fetched": 1732190333829
 		}
 	},
 	"_distfiles": {
@@ -47240,7 +47240,7 @@
 			"shasum": "11413b61773fc65084f287bae7cf6491221c1cc8"
 		}
 	},
-	"_rev": "2-36bdf72a61b81f1c",
+	"_rev": "3-9f135545c8d05c93",
 	"_id": "types-registry",
 	"readme": ""
 }
