@@ -1,4 +1,4 @@
-storage: ./storage
+storage: /verdaccio/storage
 auth:
   htpasswd:
     file: ./htpasswd
@@ -13,3 +13,5 @@ packages:
   '**':
     proxy: npmjs
 log: { type: stdout, format: pretty, level: http }
+listen:
+  - 0.0.0.0:4873

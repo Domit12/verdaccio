@@ -2,18 +2,21 @@ version: '3.1'
 
 services:
   verdaccio:
+    build: .
     image: verdaccio/verdaccio
-    container_name: 'verdaccio'
+    container_name: "verdaccio"
+    user:  1000:1000
     networks:
       - node-network
     environment:
       - VERDACCIO_PORT=4873
     ports:
-      - '4873:4873'
+      - "4873:4873"
     volumes:
-      - './storage:/verdaccio/storage'
-      - './config:/verdaccio/conf'
-      - './plugins:/verdaccio/plugins'
+      - ./storage:/verdaccio/storage
+      - ./config:/home/tori/Documents/project/config
+      - ./plugins:/verdaccio/plugins
+      - ./logs:/verdaccio/logs
   node:
     image: "node:8"
     user: "node"
@@ -25,8 +28,8 @@ services:
     expose:
       - "8081"
     ports: 
-      - "8001:8001"
-    command: "npm start" #?
+      - "8081:8081"
+    command: ['tail', '-f', '/dev/null']
 networks:
   node-network:
     driver: bridge
