@@ -23376,7 +23376,7 @@
 	"_uplinks": {
 		"npmjs": {
 			"etag": "W/\"bd83650e43a988a2e75f9de97fac9a7c\"",
-			"fetched": 1732191170754
+			"fetched": 1732557276298
 		}
 	},
 	"_distfiles": {
@@ -24781,8 +24781,12 @@
 			"registry": "npmjs"
 		}
 	},
-	"_attachments": {},
-	"_rev": "2-c0c371e4d9f7b4c1",
+	"_attachments": {
+		"babel-jest-15.0.0.tgz": {
+			"shasum": "6a9e2e3999f241383db9ab1e2ef6704401d74242"
+		}
+	},
+	"_rev": "2-fb82d128ae1ee91f",
 	"_id": "babel-jest",
 	"readme": ""
 }

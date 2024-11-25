@@ -21770,7 +21770,7 @@
 	"_uplinks": {
 		"npmjs": {
 			"etag": "W/\"3ea68894c46888caba50a4a93c04d73c\"",
-			"fetched": 1732191171589
+			"fetched": 1732557274975
 		}
 	},
 	"_distfiles": {
@@ -23145,8 +23145,12 @@
 			"registry": "npmjs"
 		}
 	},
-	"_attachments": {},
-	"_rev": "2-e4b245a4a12ef333",
+	"_attachments": {
+		"jest-environment-jsdom-15.1.1.tgz": {
+			"shasum": "f0368c13e8e0b81adad123a051b94294338b97e0"
+		}
+	},
+	"_rev": "2-7e206195f7dea4c0",
 	"_id": "jest-environment-jsdom",
 	"readme": ""
 }

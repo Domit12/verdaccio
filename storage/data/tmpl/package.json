@@ -299,7 +299,7 @@
 	"_uplinks": {
 		"npmjs": {
 			"etag": "W/\"6e34738dc7cf9d5c3860882c734290a9\"",
-			"fetched": 1732191164777
+			"fetched": 1732557278099
 		}
 	},
 	"_distfiles": {
@@ -329,8 +329,12 @@
 			"registry": "npmjs"
 		}
 	},
-	"_attachments": {},
-	"_rev": "2-cc42245f3374485d",
+	"_attachments": {
+		"tmpl-1.0.5.tgz": {
+			"shasum": "8683e0b902bb9c20c4f726e3c0b69f36518c07cc"
+		}
+	},
+	"_rev": "2-9f5827f769ee5fa1",
 	"_id": "tmpl",
 	"readme": "tmpl [![Build Status](https://secure.travis-ci.org/nshah/nodejs-tmpl.png)](http://travis-ci.org/nshah/nodejs-tmpl)\n====\n\nSimple string formatting using `{}`.\n\n```javascript\nassert.equal(\n  tmpl('the answer is {answer}', { answer: 42 }),\n  'the answer is 42')\n```"
 }

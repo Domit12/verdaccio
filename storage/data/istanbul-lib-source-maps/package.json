@@ -3557,7 +3557,7 @@
 	"_uplinks": {
 		"npmjs": {
 			"etag": "W/\"a93a23e7587616c19ae79863fa48b120\"",
-			"fetched": 1732191171241
+			"fetched": 1732557275554
 		}
 	},
 	"_distfiles": {
@@ -3772,8 +3772,12 @@
 			"registry": "npmjs"
 		}
 	},
-	"_attachments": {},
-	"_rev": "2-2d5bcad57b4a5943",
+	"_attachments": {
+		"istanbul-lib-source-maps-1.2.6.tgz": {
+			"shasum": "37b9ff661580f8fca11232752ee42e08c6675d8f"
+		}
+	},
+	"_rev": "2-4dc58ee56162cf6b",
 	"_id": "istanbul-lib-source-maps",
 	"readme": "# istanbul-lib-source-maps\n\n[![Build Status](https://img.shields.io/github/actions/workflow/status/istanbuljs/istanbuljs/ci.yml?label=CI&logo=GitHub)](https://github.com/istanbuljs/istanbuljs/actions/workflows/ci.yml)\n\nSource map support for istanbuljs.\n\n## Debugging\n\n`istanbul-lib-source-maps` uses the [debug](https://www.npmjs.com/package/debug) module. Run your application with the environment variable `DEBUG=istanbuljs`, to receive debug\noutput."
 }

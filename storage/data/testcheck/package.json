@@ -1,0 +1,664 @@
+{
+	"name": "testcheck",
+	"versions": {
+		"0.1.0": {
+			"name": "testcheck",
+			"version": "0.1.0",
+			"description": "Property testing for JavaScript",
+			"homepage": "https://github.com/leebyron/testcheck-js",
+			"author": {
+				"name": "Lee Byron",
+				"url": "https://github.com/leebyron"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/leebyron/testcheck-js"
+			},
+			"bugs": {
+				"url": "https://github.com/leebyron/testcheck-js/issues"
+			},
+			"main": "dist/testcheck.js",
+			"devDependencies": {
+				"jasmine-node": "^1.14.5"
+			},
+			"engines": {
+				"node": "^0.8.0"
+			},
+			"files": [
+				"dist",
+				"README.md",
+				"LICENSE"
+			],
+			"keywords": [
+				"test",
+				"unit test",
+				"property test",
+				"quickcheck",
+				"doublecheck",
+				"testcheck",
+				"generative"
+			],
+			"scripts": {
+				"test": "jasmine-node spec/",
+				"build": "./resources/build.sh"
+			},
+			"license": "BSD",
+			"_id": "testcheck@0.1.0",
+			"dist": {
+				"shasum": "1a89d4aa4015adc4873ef1b01b42dab1525b6e4d",
+				"tarball": "https://registry.npmjs.org/testcheck/-/testcheck-0.1.0.tgz",
+				"integrity": "sha512-ETdz3wemN9J+0ZIy9xVRxxyrVla+AqLM2xodZT8eoGAnzZJa7YdPtKby9hcEK0Nmk9s42+bShuZ4MEEMjY6ctw==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEQCIDkFXi9um1cblCZR9GwFGDbFe45svYH10UsYxvqdrRsFAiBF1kWX0+E6nTFRh/gU+CtHyYzH77+YrREIIE703kVfpg=="
+					}
+				]
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.3",
+			"_npmUser": {
+				"name": "leebyron",
+				"email": "lee@leebyron.com"
+			},
+			"maintainers": [
+				{
+					"name": "leebyron",
+					"email": "lee@leebyron.com"
+				}
+			],
+			"contributors": []
+		},
+		"0.1.1": {
+			"name": "testcheck",
+			"version": "0.1.1",
+			"description": "Property testing for JavaScript",
+			"homepage": "https://github.com/leebyron/testcheck-js",
+			"author": {
+				"name": "Lee Byron",
+				"url": "https://github.com/leebyron"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/leebyron/testcheck-js"
+			},
+			"bugs": {
+				"url": "https://github.com/leebyron/testcheck-js/issues"
+			},
+			"main": "dist/testcheck.js",
+			"devDependencies": {
+				"jasmine-node": "^1.14.5"
+			},
+			"engines": {
+				"node": "^0.8.0"
+			},
+			"files": [
+				"dist",
+				"README.md",
+				"LICENSE"
+			],
+			"keywords": [
+				"test",
+				"unit test",
+				"property test",
+				"quickcheck",
+				"doublecheck",
+				"testcheck",
+				"generative"
+			],
+			"scripts": {
+				"test": "jasmine-node spec/",
+				"build": "./resources/build.sh"
+			},
+			"license": "BSD",
+			"_id": "testcheck@0.1.1",
+			"dist": {
+				"shasum": "0cd6e2634a2dd7f470d67b9c4580b7a251e894a4",
+				"tarball": "https://registry.npmjs.org/testcheck/-/testcheck-0.1.1.tgz",
+				"integrity": "sha512-RO2YzZ/oMg5ZgwAYcQgnJmE3nKhXAQ/s8geWRQedwsaWiyEOGettNVUaakm8cAfGJMM5+N8F4zTnh9QwNZ8lDg==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEUCIQDK/z8zzB6QWEFePkFgRwhUGldx67TZsoBmaegsGkVTvgIgBzslocnYcsl6Wez0RMMkF7GESMHy/uz98e51VOutHC4="
+					}
+				]
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.3",
+			"_npmUser": {
+				"name": "leebyron",
+				"email": "lee@leebyron.com"
+			},
+			"maintainers": [
+				{
+					"name": "leebyron",
+					"email": "lee@leebyron.com"
+				}
+			],
+			"contributors": []
+		},
+		"0.1.2": {
+			"name": "testcheck",
+			"version": "0.1.2",
+			"description": "Property testing for JavaScript",
+			"homepage": "https://github.com/leebyron/testcheck-js",
+			"author": {
+				"name": "Lee Byron",
+				"url": "https://github.com/leebyron"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/leebyron/testcheck-js"
+			},
+			"bugs": {
+				"url": "https://github.com/leebyron/testcheck-js/issues"
+			},
+			"main": "dist/testcheck.js",
+			"devDependencies": {
+				"jasmine-node": "^1.14.5"
+			},
+			"engines": {
+				"node": "^0.8.0"
+			},
+			"files": [
+				"dist",
+				"README.md",
+				"LICENSE"
+			],
+			"keywords": [
+				"test",
+				"unit test",
+				"property test",
+				"quickcheck",
+				"doublecheck",
+				"testcheck",
+				"generative"
+			],
+			"scripts": {
+				"test": "jasmine-node spec/",
+				"build": "./resources/build.sh"
+			},
+			"license": "BSD",
+			"_id": "testcheck@0.1.2",
+			"dist": {
+				"shasum": "8c519ab6e753b01d57853cdef69a861fbdae776f",
+				"tarball": "https://registry.npmjs.org/testcheck/-/testcheck-0.1.2.tgz",
+				"integrity": "sha512-EzzvwBYUdEmyMz3X+m4GBaY1n0xBW97D1VNdBrTyMMNht+MPwVenbz0AsA45sA2z2fewgm2nxTE2xJAdYZLXLw==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEUCIQC7I548xdNUmmNtkjIJfZX+b+fB9inD6SKOjexBgkijeAIgEP6rFzKHaQMGnBYDOzg4G0WwqHFwnVIBOmPZVcNhCgM="
+					}
+				]
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.3",
+			"_npmUser": {
+				"name": "leebyron",
+				"email": "lee@leebyron.com"
+			},
+			"maintainers": [
+				{
+					"name": "leebyron",
+					"email": "lee@leebyron.com"
+				}
+			],
+			"contributors": []
+		},
+		"0.1.3": {
+			"name": "testcheck",
+			"version": "0.1.3",
+			"description": "Property testing for JavaScript",
+			"homepage": "https://github.com/leebyron/testcheck-js",
+			"author": {
+				"name": "Lee Byron",
+				"url": "https://github.com/leebyron"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/leebyron/testcheck-js"
+			},
+			"bugs": {
+				"url": "https://github.com/leebyron/testcheck-js/issues"
+			},
+			"main": "dist/testcheck.js",
+			"devDependencies": {
+				"jasmine-node": "^1.14.5"
+			},
+			"engines": {
+				"node": "^0.8.0"
+			},
+			"files": [
+				"dist",
+				"README.md",
+				"LICENSE"
+			],
+			"keywords": [
+				"test",
+				"unit test",
+				"property test",
+				"quickcheck",
+				"doublecheck",
+				"testcheck",
+				"generative"
+			],
+			"scripts": {
+				"test": "jasmine-node spec/",
+				"build": "./resources/build.sh"
+			},
+			"license": "BSD",
+			"_id": "testcheck@0.1.3",
+			"dist": {
+				"shasum": "bdbd363355bad5d182e78103aef191b2408763b1",
+				"tarball": "https://registry.npmjs.org/testcheck/-/testcheck-0.1.3.tgz",
+				"integrity": "sha512-MQMMfEIp5FjtICv99kalP4XnGaKMbRYSJD23Bv1SykcoYzcR54rBAjhUafq0dEANxhYmWwWMj/UjH31bgGL9Cg==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEYCIQDdzAhdMi0az1TBhPvRca64OzNH1Uc58MG5Ta4nqFAzqgIhAPFly5nEM1IUI8mRp2mh4wBDngfcnOffgnNvLE+5nMIa"
+					}
+				]
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.3",
+			"_npmUser": {
+				"name": "leebyron",
+				"email": "lee@leebyron.com"
+			},
+			"maintainers": [
+				{
+					"name": "leebyron",
+					"email": "lee@leebyron.com"
+				}
+			],
+			"contributors": []
+		},
+		"0.1.4": {
+			"name": "testcheck",
+			"version": "0.1.4",
+			"description": "Property testing for JavaScript",
+			"homepage": "https://github.com/leebyron/testcheck-js",
+			"author": {
+				"name": "Lee Byron",
+				"url": "https://github.com/leebyron"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/leebyron/testcheck-js"
+			},
+			"bugs": {
+				"url": "https://github.com/leebyron/testcheck-js/issues"
+			},
+			"main": "dist/testcheck.js",
+			"devDependencies": {
+				"jasmine-node": "^1.14.5"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"files": [
+				"dist",
+				"README.md",
+				"LICENSE"
+			],
+			"keywords": [
+				"test",
+				"unit test",
+				"property test",
+				"quickcheck",
+				"doublecheck",
+				"testcheck",
+				"generative"
+			],
+			"scripts": {
+				"test": "jasmine-node spec/",
+				"build": "./resources/build.sh"
+			},
+			"license": "BSD",
+			"gitHead": "75aa5a78a315f7755dac6051068ba20ff8c58e3f",
+			"_id": "testcheck@0.1.4",
+			"_shasum": "90056edd48d11997702616ce6716f197d8190164",
+			"_from": ".",
+			"_npmVersion": "2.2.0",
+			"_nodeVersion": "0.10.35",
+			"_npmUser": {
+				"name": "leebyron",
+				"email": "lee@leebyron.com"
+			},
+			"maintainers": [
+				{
+					"name": "leebyron",
+					"email": "lee@leebyron.com"
+				}
+			],
+			"dist": {
+				"shasum": "90056edd48d11997702616ce6716f197d8190164",
+				"tarball": "https://registry.npmjs.org/testcheck/-/testcheck-0.1.4.tgz",
+				"integrity": "sha512-pDOhTffyEt7kwfFVPRMXhTiNGxSKGpDnu1srIb9AjDZWf0lWKGF/viOiS+FHvwpzZB1H03aoMH3FvAyk9QzfTg==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEUCIG1zsL83sbYdk9kpbHKFHJdbtyAs33HmTScpKYPtXpb7AiEA4hTdioJh9JhedqxSIRLQjLYqIsdpq5qKI/CwtbIMH5E="
+					}
+				]
+			},
+			"contributors": []
+		},
+		"1.0.0-rc.0": {
+			"name": "testcheck",
+			"version": "1.0.0-rc.0",
+			"description": "Property testing for JavaScript",
+			"homepage": "http://leebyron.com/testcheck-js",
+			"license": "BSD-3-Clause",
+			"author": {
+				"name": "Lee Byron",
+				"url": "https://github.com/leebyron"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/leebyron/testcheck-js.git"
+			},
+			"bugs": {
+				"url": "https://github.com/leebyron/testcheck-js/issues"
+			},
+			"main": "dist/testcheck.js",
+			"types": "dist/testcheck.d.ts",
+			"devDependencies": {
+				"flow-bin": "^0.37.3",
+				"jasmine-node": "^1.14.5",
+				"typescript": "^2.1.4"
+			},
+			"files": [
+				"dist",
+				"README.md",
+				"LICENSE"
+			],
+			"keywords": [
+				"test",
+				"unit test",
+				"property test",
+				"quickcheck",
+				"doublecheck",
+				"testcheck",
+				"generative"
+			],
+			"scripts": {
+				"test": "npm run rebuild && npm run testonly && npm run flow-check && npm run ts-check",
+				"testonly": "jasmine-node test",
+				"flow-check": "flow check test",
+				"ts-check": "DIFF=$(tsc --noEmit --noImplicitAny --strictNullChecks test/types.ts | diff test/types.ts.expected -); if [ -n \"$DIFF\" ]; then echo \"$DIFF\"; exit 1; fi;",
+				"ts-check-update": "tsc --noEmit --noImplicitAny --strictNullChecks test/types.ts > test/types.ts.expected; exit 0",
+				"build": "rm -f dist/* && lein do clean, cljsbuild once && cp type-definitions/* dist/",
+				"rebuild": "lein do cljsbuild once && cp type-definitions/* dist/"
+			},
+			"dependencies": {},
+			"gitHead": "fe7667915804b4267045ae20e77007c02833e166",
+			"_id": "testcheck@1.0.0-rc.0",
+			"_shasum": "1fb69ad5792a4c54fff6b6db6e00a0061bbfece3",
+			"_from": ".",
+			"_npmVersion": "4.2.0",
+			"_nodeVersion": "7.9.0",
+			"_npmUser": {
+				"name": "leebyron",
+				"email": "lee@leebyron.com"
+			},
+			"dist": {
+				"shasum": "1fb69ad5792a4c54fff6b6db6e00a0061bbfece3",
+				"tarball": "https://registry.npmjs.org/testcheck/-/testcheck-1.0.0-rc.0.tgz",
+				"integrity": "sha512-wNqGiucJCX2vDHBDu43n/kCtjtlqzWjn6pcfG1/6NgIpgsLzQa2qaYDszCa0BGuvlSuLnBJnODiYt+8zZLtTRw==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEUCIHfAA+6niLhPiC2b3UqxbQCdGxKn1Rfr2kHvFcCB97xIAiEA6FJuz8f3jMzX4vcYN0bvqLKVYcWvhs9cYvgteGQdehc="
+					}
+				]
+			},
+			"maintainers": [
+				{
+					"name": "leebyron",
+					"email": "lee@leebyron.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/testcheck-1.0.0-rc.0.tgz_1493185737362_0.4295628545805812"
+			},
+			"contributors": []
+		},
+		"1.0.0-rc.1": {
+			"name": "testcheck",
+			"version": "1.0.0-rc.1",
+			"description": "Property testing for JavaScript",
+			"homepage": "http://leebyron.com/testcheck-js",
+			"license": "BSD-3-Clause",
+			"author": {
+				"name": "Lee Byron",
+				"url": "https://github.com/leebyron"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/leebyron/testcheck-js.git"
+			},
+			"bugs": {
+				"url": "https://github.com/leebyron/testcheck-js/issues"
+			},
+			"main": "dist/testcheck.js",
+			"types": "dist/testcheck.d.ts",
+			"devDependencies": {
+				"flow-bin": "^0.37.3",
+				"jasmine-node": "^1.14.5",
+				"typescript": "^2.1.4"
+			},
+			"files": [
+				"dist",
+				"README.md",
+				"LICENSE"
+			],
+			"keywords": [
+				"test",
+				"unit test",
+				"property test",
+				"quickcheck",
+				"doublecheck",
+				"testcheck",
+				"generative"
+			],
+			"scripts": {
+				"test": "npm run rebuild && npm run testonly && npm run flow-check && npm run ts-check",
+				"testonly": "jasmine-node test",
+				"flow-check": "flow check test",
+				"ts-check": "DIFF=$(tsc --noEmit --noImplicitAny --strictNullChecks test/types.ts | diff test/types.ts.expected -); if [ -n \"$DIFF\" ]; then echo \"$DIFF\"; exit 1; fi;",
+				"ts-check-update": "tsc --noEmit --noImplicitAny --strictNullChecks test/types.ts > test/types.ts.expected; exit 0",
+				"build": "rm -f dist/* && lein do clean, cljsbuild once && cp type-definitions/* dist/",
+				"rebuild": "lein do cljsbuild once && cp type-definitions/* dist/"
+			},
+			"dependencies": {},
+			"gitHead": "27055729830ce24e39adf46b4db863d6bd7d801e",
+			"_id": "testcheck@1.0.0-rc.1",
+			"_shasum": "042f4ac57bbcfc9969e863b22dd7e548c9496f53",
+			"_from": ".",
+			"_npmVersion": "4.2.0",
+			"_nodeVersion": "7.9.0",
+			"_npmUser": {
+				"name": "leebyron",
+				"email": "lee@leebyron.com"
+			},
+			"dist": {
+				"shasum": "042f4ac57bbcfc9969e863b22dd7e548c9496f53",
+				"tarball": "https://registry.npmjs.org/testcheck/-/testcheck-1.0.0-rc.1.tgz",
+				"integrity": "sha512-fnkaN7d7FJewX5L0ycdcu2qsmKPncg/IjIbN68q4AlSrSyft3y/Mt91Ma71MU6jUpOgywEDtdhwdRGV6oqM5xA==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEQCIATAYrc2CQr9xbLy16KUgjN0i81bXIIIdeCmY1efhPF4AiB6lwIYyqBaAbUCGTKdYZAkgDpiZ129g7KxlDm6ZzjZFw=="
+					}
+				]
+			},
+			"maintainers": [
+				{
+					"name": "leebyron",
+					"email": "lee@leebyron.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/testcheck-1.0.0-rc.1.tgz_1493239125011_0.9339980657678097"
+			},
+			"contributors": []
+		},
+		"1.0.0-rc.2": {
+			"name": "testcheck",
+			"version": "1.0.0-rc.2",
+			"description": "Property testing for JavaScript",
+			"homepage": "http://leebyron.com/testcheck-js",
+			"license": "BSD-3-Clause",
+			"author": {
+				"name": "Lee Byron",
+				"url": "https://github.com/leebyron"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/leebyron/testcheck-js.git"
+			},
+			"bugs": {
+				"url": "https://github.com/leebyron/testcheck-js/issues"
+			},
+			"main": "dist/testcheck.js",
+			"types": "dist/testcheck.d.ts",
+			"devDependencies": {
+				"flow-bin": "^0.37.3",
+				"jasmine-node": "^1.14.5",
+				"typescript": "^2.1.4"
+			},
+			"files": [
+				"dist",
+				"README.md",
+				"LICENSE"
+			],
+			"keywords": [
+				"test",
+				"unit test",
+				"property test",
+				"quickcheck",
+				"doublecheck",
+				"testcheck",
+				"generative"
+			],
+			"scripts": {
+				"test": "npm run rebuild && npm run testonly && npm run flow-check && npm run ts-check",
+				"testonly": "jasmine-node test",
+				"flow-check": "flow check test",
+				"ts-check": "DIFF=$(tsc --noEmit --noImplicitAny --strictNullChecks test/types.ts | diff test/types.ts.expected -); if [ -n \"$DIFF\" ]; then echo \"$DIFF\"; exit 1; fi;",
+				"ts-check-update": "tsc --noEmit --noImplicitAny --strictNullChecks test/types.ts > test/types.ts.expected; exit 0",
+				"build": "rm -f dist/* && lein do clean, cljsbuild once && cp type-definitions/* dist/",
+				"rebuild": "lein do cljsbuild once && cp type-definitions/* dist/",
+				"prepublish": "npm run build"
+			},
+			"dependencies": {},
+			"gitHead": "0514c9359f14ff87f38978014abd09da558eed64",
+			"_id": "testcheck@1.0.0-rc.2",
+			"_shasum": "11356a25b84575efe0b0857451e85b5fa74ee4e4",
+			"_from": ".",
+			"_npmVersion": "4.2.0",
+			"_nodeVersion": "7.9.0",
+			"_npmUser": {
+				"name": "leebyron",
+				"email": "lee@leebyron.com"
+			},
+			"dist": {
+				"shasum": "11356a25b84575efe0b0857451e85b5fa74ee4e4",
+				"tarball": "https://registry.npmjs.org/testcheck/-/testcheck-1.0.0-rc.2.tgz",
+				"integrity": "sha512-lY0PM4ypOuf3WenJkx/C8+LeLPucHnnRAOtHRQkm8K6pG170tYw0xmxyVjrejJ2bpHWHn5EUkoC+qhnhFAUcvg==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEYCIQDiQlAqWryFtQxAxbhr7B0rBbQPl06KqN7CSkroskCyXwIhAIJ8wtbm7ce44v0TZSGQRWbaJIqkYw1baK3C7gnpipYt"
+					}
+				]
+			},
+			"maintainers": [
+				{
+					"name": "leebyron",
+					"email": "lee@leebyron.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/testcheck-1.0.0-rc.2.tgz_1493239327708_0.2855983891058713"
+			},
+			"contributors": []
+		}
+	},
+	"time": {
+		"modified": "2022-06-27T05:24:38.684Z",
+		"created": "2014-08-13T00:33:17.843Z",
+		"0.1.0": "2014-08-13T00:33:17.843Z",
+		"0.1.1": "2014-08-13T03:03:12.152Z",
+		"0.1.2": "2014-08-13T07:03:44.455Z",
+		"0.1.3": "2014-08-27T19:55:45.537Z",
+		"0.1.4": "2015-01-14T22:39:57.286Z",
+		"1.0.0-rc.0": "2017-04-26T05:48:59.666Z",
+		"1.0.0-rc.1": "2017-04-26T20:38:47.931Z",
+		"1.0.0-rc.2": "2017-04-26T20:42:10.658Z"
+	},
+	"users": {},
+	"dist-tags": {
+		"latest": "1.0.0-rc.2"
+	},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "W/\"2eb5e58be6cf22609a7866a460e5fa62\"",
+			"fetched": 1732557277991
+		}
+	},
+	"_distfiles": {
+		"testcheck-0.1.0.tgz": {
+			"url": "https://registry.npmjs.org/testcheck/-/testcheck-0.1.0.tgz",
+			"sha": "1a89d4aa4015adc4873ef1b01b42dab1525b6e4d",
+			"registry": "npmjs"
+		},
+		"testcheck-0.1.1.tgz": {
+			"url": "https://registry.npmjs.org/testcheck/-/testcheck-0.1.1.tgz",
+			"sha": "0cd6e2634a2dd7f470d67b9c4580b7a251e894a4",
+			"registry": "npmjs"
+		},
+		"testcheck-0.1.2.tgz": {
+			"url": "https://registry.npmjs.org/testcheck/-/testcheck-0.1.2.tgz",
+			"sha": "8c519ab6e753b01d57853cdef69a861fbdae776f",
+			"registry": "npmjs"
+		},
+		"testcheck-0.1.3.tgz": {
+			"url": "https://registry.npmjs.org/testcheck/-/testcheck-0.1.3.tgz",
+			"sha": "bdbd363355bad5d182e78103aef191b2408763b1",
+			"registry": "npmjs"
+		},
+		"testcheck-0.1.4.tgz": {
+			"url": "https://registry.npmjs.org/testcheck/-/testcheck-0.1.4.tgz",
+			"sha": "90056edd48d11997702616ce6716f197d8190164",
+			"registry": "npmjs"
+		},
+		"testcheck-1.0.0-rc.0.tgz": {
+			"url": "https://registry.npmjs.org/testcheck/-/testcheck-1.0.0-rc.0.tgz",
+			"sha": "1fb69ad5792a4c54fff6b6db6e00a0061bbfece3",
+			"registry": "npmjs"
+		},
+		"testcheck-1.0.0-rc.1.tgz": {
+			"url": "https://registry.npmjs.org/testcheck/-/testcheck-1.0.0-rc.1.tgz",
+			"sha": "042f4ac57bbcfc9969e863b22dd7e548c9496f53",
+			"registry": "npmjs"
+		},
+		"testcheck-1.0.0-rc.2.tgz": {
+			"url": "https://registry.npmjs.org/testcheck/-/testcheck-1.0.0-rc.2.tgz",
+			"sha": "11356a25b84575efe0b0857451e85b5fa74ee4e4",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {
+		"testcheck-0.1.4.tgz": {
+			"shasum": "90056edd48d11997702616ce6716f197d8190164"
+		}
+	},
+	"_rev": "2-306889c796f0393c",
+	"_id": "testcheck",
+	"readme": "TestCheck.js [![Build Status](https://travis-ci.org/leebyron/testcheck-js.svg)](https://travis-ci.org/leebyron/testcheck-js)\n============\n\nGenerative property testing for JavaScript.\n\n`TestCheck.js` is a library for generative testing of program properties,\nala QuickCheck.\n\nBy providing a specification of the JavaScript program in the form of\nproperties, the properties can be tested to remain true for a large number of\nrandomly generated cases. In the case of a test failure, the smallest possible\nfailing test case is found.\n\n\n\nGetting started\n---------------\n\nInstall `testcheck` using yarn\n\n```sh\nyarn add --dev testcheck\n```\n\nOr using npm\n\n```sh\nnpm install --save-dev testcheck\n```\n\nThen require it into your testing environment and start testing.\n\n```js\nconst { check, gen, property } = require('testcheck');\n\nconst result = check(\n  property(\n    gen.int,\n    x => x - x === 0\n  )\n)\n```\n\n### Have a favorite test framework?\n\n`TestCheck.js` is a testing utility and not a complete test-running framework. It\ndoesn't replace test frameworks like AVA, Jasmine, or Mocha.\n\nIf you use [AVA](https://github.com/avajs/ava/) then check out\n[ava-check](https://github.com/leebyron/testcheck-js/tree/master/integrations/ava-check), a testcheck\nAVA plugin.\n\n```js\nconst test = require('ava')\nconst { check, gen } = require('ava-check')\n\ntest('addition is commutative', check(gen.int, gen.int, (t, numA, numB) => {\n  t.true(numA + numB === numB + numA)\n}))\n```\n\nIf you use [Jasmine](http://jasmine.github.io/) or [Jest](https://facebook.github.io/jest/) then check out\n[jasmine-check](https://github.com/leebyron/testcheck-js/tree/master/integrations/jasmine-check), a testcheck\nJasmine (or Jest) plugin.\n\n```js\nrequire('jasmine-check').install()\n\ndescribe('Maths', () => {\n  check.it('addition is commutative', gen.int, gen.int, (numA, numB) => {\n    expect(numA + numB).toEqual(numB + numA)\n  })\n})\n```\n\nIf you use [Mocha](http://visionmedia.github.io/mocha/) then check out\n[mocha-testcheck](https://github.com/leebyron/testcheck-js/tree/master/integrations/mocha-testcheck), a testcheck\nMocha plugin.\n\n```js\nrequire('mocha-testcheck').install();\nconst { expect } = require('chai');\n\ndescribe('Maths', () => {\n  check.it('addition is commutative', gen.int, gen.int, (numA, numB) => {\n    expect(numA + numB).to.equal(numB + numA)\n  })\n})\n```\n\nIf you use [Tape](https://github.com/substack/tape/) then check out\n[tape-check](https://github.com/leebyron/testcheck-js/tree/master/integrations/tape-check), a testcheck\nTape plugin.\n\n```js\nconst test = require('tape')\nconst { check, gen } = require('tape-check')\n\ntest('addition is commutative', check(gen.int, gen.int, (t, numA, numB) => {\n  t.plan(1)\n  t.equal(numA + numB, numB + numA)\n}));\n```\n\n### Type definitions\n\nThis module includes type definitions for [Flow type](http://flowtype.org/) and\n[Typescript](https://www.typescriptlang.org/). Simply require or import this\nmodule and enjoy type suggestions and corrections.\n\n\n\nUsing TestCheck.js\n------------------\n\nSee the complete [API documentation](http://leebyron.com/testcheck-js/api) for\nall available generators and utilities, or the [Walkthrough Guide](http://leebyron.com/testcheck-js/guide) for a more thorough walkthrough.\n\n\n### Defining properties\n\nA property is simply a function which is expected to always return true, we\nmight also call these properties \"assumptions\" or \"expectations\".\n\nFor example, say we wanted to test the assumption that any number subtracted\nfrom itself will be `0`, we could define this property as:\n\n```js\nfunction (x) {\n  return x - x === 0\n}\n```\n\nOr as another example, let's determine that sorting an array is stable and\n[idempotent](http://en.wikipedia.org/wiki/Idempotence), which is to say that\nsorting a sorted array shouldn't do anything. We could write:\n\n```js\nfunction (arr) {\n  var arrCopy = arr.slice()\n  return deepEqual(arrCopy.sort(), arr.sort().sort())\n}\n```\n\nThat's really it! The only thing special about this property function is that it\nis [pure](http://en.wikipedia.org/wiki/Pure_function), e.g. it relies only on\nthe provided arguments to determine its return value (no other reading\nor writing!).\n\nIf you can start to describe your program in terms of its properties, then\n`testcheck` can test them for you.\n\n\n### Generating test cases\n\nOnce we've defined some properties, we generate test cases for each properties\nby describing the types of values for each argument.\n\nFor testing our first property, we need numbers:\n\n```js\ngen.int\n```\n\nFor the second, we need arrays of numbers\n\n```js\ngen.array(gen.int)\n```\n\nThere are a wide variety of value generators, we've only scratched the surface.\nWe can generate random JSON with `gen.JSON`, pick amongst a set of values with\n`gen.returnOneOf`, nested arrays with ints `gen.nested(gen.array, gen.int)` and\nmuch more. You can even define your own generators with `generator.then()`,\nand `gen.sized`.\n\n\n### Checking the properties\n\nFinally, we check our properties using our test case generator (in this case,\nup to 1000 different tests before concluding).\n\n```js\nconst result = check(\n  property(\n    // the arguments generator\n    gen.int,\n    // the property function to test\n    x => x - x === 0\n  ),\n  { numTests: 1000 }\n)\n```\n\n`check` runs through random cases looking for failure, and when it doesn't find\nany failures, it returns:\n\n```js\n{ result: true, numTests: 1000, seed: 1406779597155 }\n```\n\n\n### Smallest failing test\n\nLet's try another property: the sum of two integers is the same or larger than\neither of the integers alone.\n\n```js\ncheck(\n  property(\n    gen.int, gen.int,\n    (a, b) => a + b >= a && a + b >= b\n  )\n)\n```\n\n`check` runs through random cases again. This time it found a failing case, so\nit returns:\n\n```js\n{ result: false,\n  failingSize: 2,\n  numTests: 3,\n  fail: [ 2, -1 ],\n  shrunk:\n   { totalNodesVisited: 2,\n     depth: 1,\n     result: false,\n     smallest: [ 0, -1 ] } }\n```\n\nSomething is wrong. Either:\n\n  1. Our assumption is wrong (e.g. bug in our software).\n  2. The test code is wrong.\n  3. The generated test data is too broad.\n\nIn this case, our problem is that our generated data is too broad for our\nassumption. What's going on?\n\nWe can see that the `fail` case `2, -1` would in fact not be correct, but it\nmight not be immediately clear why. This is where test case shrinking comes in\nhandy. The `shrunk` key provides information about the shrinking process and\nmost importantly, the `smallest` values that still fail: `0, -1`.\n\nWe forgot about an edge case! If one of the integers is negative, then the sum\nwill not be larger. This shrunken test case illustrated this much better than\nthe original failing test did. Now we know that we can either improve our\nproperty or make the test data more specific:\n\n```js\ncheck(property(\n  gen.posInt, gen.posInt,\n  (a, b) => a + b >= a && a + b >= b\n));\n```\n\nWith our correction, our property passes all tests.\n\n\n### Thinking in random distributions\n\nIt's important to remember that your test is only as good as the data being\nprovided. While `testcheck` provides tools to generate random data, thinking\nabout what that data looks like may help you write better tests. Also, because\nthe data generated is random, a test may pass which simply failed to uncover\na corner case.\n\n> \"Testing shows the presence, not the absence of bugs\"\n>\n> — Dijkstra, 1969\n\n### Sampling Test Data\n\nVisualizing the data `check` generates may help diagnose the quality of a test.\nUse `sample` and `sampleOne` to get a look at what a generator produces:\n\n```js\nconst { gen, sample, sampleOne } = require('testcheck')\n\nsample(gen.int)\n// [ 0, 0, 2, -1, 3, 5, -4, 0, 3, 5 ]\n\nsampleOne(gen.int)\n// -23\n```\n\n\n### The Size of Test Data\n\nTest data generators have an implicit `size` property, which could be used to\ndetermine the maximum value for a generated integer or the max length of a\ngenerated array. `testcheck` begins by generating small test cases and gradually\nincreases the size.\n\nSo if you wish to test very large numbers or extremely long arrays, running\n`check` the default 100 times with maxSize of 200, you may not get what\nyou expect.\n\n\n### Data relationships\n\nLet's test an assumption that should clearly be wrong: a string [split](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)\nby another string always returns an array of length 1.\n\n```js\ncheck(property(\n  gen.asciiString.notEmpty(), gen.asciiString.notEmpty(),\n  (str, separator) => str.split(separator).length === 1\n))\n```\n\nUnless you got lucky, you probably saw this check pass. This is because we're\ntesting for a relationship between these strings. If `separator` is not found\nin `str`, then this test passes. The second unrelated random string is very\nunlikely to be found within the first random string.\n\nWe could change the test to be aware of this relationship such that the\n`separator` is always contained within the `str` by using `then()`.\n\n```js\ncheck(property(\n  gen.asciiString.notEmpty().then(str =>\n    gen.array([ str, gen.substring(str).notEmpty() ])),\n  ([ str, separator ]) => str.split(separator).length === 1\n))\n```\n\nNow `separator` is a random substring of `str` and the test fails with the\nsmallest failing arguments: `[ ' ', ' ' ]`.\n\nWe can test this example out ourselves, with the value `' '` generated for both\n`str` and `separator`, we can run `' '.split(' ').length` to see that we in\nfact get `2`, not `1`.\n\n\n\nLicense\n-------\n\nCopyright 2014-2016 Lee Byron\n\nTestCheck.js is distributed under the BSD-3-Clause license.\n\n#### Atop the shoulders of giants\n\n`TestCheck.js` is based on Clojure's [test.check](https://github.com/clojure/test.check)\nwhich is inspired by Haskell's [QuickCheck](https://hackage.haskell.org/package/QuickCheck). Many gracious thanks goes to all of the brilliance and hard work enabling this project to exist.\n\nClojure's test.check is Copyright Rich Hickey, Reid Draper and contributors and is\ndistributed under the Eclipse Public License."
+}

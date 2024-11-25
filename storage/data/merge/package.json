@@ -533,7 +533,7 @@
 	"_uplinks": {
 		"npmjs": {
 			"etag": "W/\"bfe06c13715b16904d2d7c3bed512661\"",
-			"fetched": 1732191164309
+			"fetched": 1732557276750
 		}
 	},
 	"_distfiles": {
@@ -583,8 +583,12 @@
 			"registry": "npmjs"
 		}
 	},
-	"_attachments": {},
-	"_rev": "2-a600d0c9944ccd11",
+	"_attachments": {
+		"merge-1.2.1.tgz": {
+			"shasum": "38bebf80c3220a8a487b6fcfb3941bb11720c145"
+		}
+	},
+	"_rev": "2-b7c78727ec09a3ac",
 	"_id": "merge",
 	"readme": "# Merge\r\n\r\n(recursive)? merging of (cloned)? objects.\r\n\r\n# Install\r\n\r\n## Node.js\r\n\r\n```sh\r\nnpm i merge\r\n```\r\n```js\r\nimport merge from 'merge'\r\n```\r\n\r\n## Browser\r\n\r\n```html\r\n<script src=\"https://cdn.jsdelivr.net/gh/yeikos/js.merge/dist/merge.browser.min.js\"></script>\r\n```\r\n```js\r\nwindow.merge\r\n```\r\n\r\n# API\r\n\r\n```typescript\r\nmerge(clone: boolean, ...items: Object[])\r\nmerge(...items: Object[])\r\nmerge.recursive(clone: boolean, ...items: Object[])\r\nmerge.recursive(...items: Object[])\r\n```\r\n\r\n# Examples\r\n\r\n```js\r\n\r\n// Merge \r\n\r\n{\r\n\tvar objectA = {} \r\n\r\n\tmerge(objectA, \r\n\t\t{ value: 1 }, \r\n\t\t{ str: 'hello world' }\r\n\t)\r\n\r\n\tvar objectB = merge(true, objectA, \r\n\t\t{ value: 2 }\r\n\t)\r\n\r\n\tobjectA // { value: 1, str: 'hello world' }\r\n\tobjectB // { value: 2, str: 'hello world' }\r\n}\r\n\r\n// Recursive merge\r\n\r\n{\r\n\tvar objectA = {}\r\n\r\n\tmerge.recursive(objectA, \r\n\t\t{ level: { value: 1 } },\r\n\t\t{ level: { str: 'hello world' } }\r\n\t)\r\n\tvar objectB = merge.recursive(true, objectA, \r\n\t\t{ level: { value: 2 } }\r\n\t)\r\n\r\n\tobjectA.level // { value: 1, str: 'hello world' }\r\n\tobjectB.level // { value: 2, str: 'hello world' }\r\n}\r\n```\r\n# Test\r\n\r\n## Node.js\r\n\r\n```sh\r\nnpm test\r\n```\r\n## Browser\r\n\r\n```\r\n./dist/merge.browser.test.html\r\n```"
 }

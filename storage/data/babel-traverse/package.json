@@ -5991,7 +5991,7 @@
 	"_uplinks": {
 		"npmjs": {
 			"etag": "W/\"3454ba90b72d5e2d0d387217c42dbe18\"",
-			"fetched": 1732191163874
+			"fetched": 1732557276727
 		}
 	},
 	"_distfiles": {
@@ -6386,8 +6386,12 @@
 			"registry": "npmjs"
 		}
 	},
-	"_attachments": {},
-	"_rev": "2-1fdb5ae4e7b58817",
+	"_attachments": {
+		"babel-traverse-6.26.0.tgz": {
+			"shasum": "46a9cbd7edcc62c8e5c064e2d2d8d0f4035766ee"
+		}
+	},
+	"_rev": "2-544664e1f3b55ac6",
 	"_id": "babel-traverse",
 	"readme": "# babel-traverse\n\n> babel-traverse maintains the overall tree state, and is responsible for replacing, removing, and adding nodes.\n\n## Install\n\n```sh\n$ npm install --save babel-traverse\n```\n\n## Usage\n\nWe can use it alongside Babylon to traverse and update nodes:\n\n```js\nimport * as babylon from \"babylon\";\nimport traverse from \"babel-traverse\";\n\nconst code = `function square(n) {\n  return n * n;\n}`;\n\nconst ast = babylon.parse(code);\n\ntraverse(ast, {\n  enter(path) {\n    if (path.isIdentifier({ name: \"n\" })) {\n      path.node.name = \"x\";\n    }\n  }\n});\n```\n[:book: **Read the full docs here**](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/plugin-handbook.md#babel-traverse)"
 }

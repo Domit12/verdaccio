@@ -30983,7 +30983,7 @@
 	"_uplinks": {
 		"npmjs": {
 			"etag": "W/\"39ba5b25c36c380f850e8a24bde6a371\"",
-			"fetched": 1732191170753
+			"fetched": 1732557274605
 		}
 	},
 	"_distfiles": {
@@ -32513,8 +32513,12 @@
 			"registry": "npmjs"
 		}
 	},
-	"_attachments": {},
-	"_rev": "2-7bb42dd773d3e390",
+	"_attachments": {
+		"jest-runtime-15.1.1.tgz": {
+			"shasum": "3907b8d46e5fe21b4395f3f884031fae22267191"
+		}
+	},
+	"_rev": "2-2ffdbdb83298672e",
 	"_id": "jest-runtime",
 	"readme": ""
 }

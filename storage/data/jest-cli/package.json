@@ -49505,7 +49505,7 @@
 	"_uplinks": {
 		"npmjs": {
 			"etag": "W/\"1f775b7a877e3860d1c7cc4c7df0d6ec\"",
-			"fetched": 1732191168779
+			"fetched": 1732557273982
 		}
 	},
 	"_distfiles": {
@@ -51465,8 +51465,12 @@
 			"registry": "npmjs"
 		}
 	},
-	"_attachments": {},
-	"_rev": "2-fe70d071cadd5a86",
+	"_attachments": {
+		"jest-cli-15.1.1.tgz": {
+			"shasum": "53f271281f90d3b4043eca9ce9af69dd04bbda3e"
+		}
+	},
+	"_rev": "2-7ccafa0aa85bc14f",
 	"_id": "jest-cli",
 	"readme": ""
 }

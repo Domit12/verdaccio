@@ -905,7 +905,7 @@
 	"_uplinks": {
 		"npmjs": {
 			"etag": "W/\"6dd83c5320f4a7d5404c451b6ee310b3\"",
-			"fetched": 1732191163978
+			"fetched": 1732557279807
 		}
 	},
 	"_distfiles": {
@@ -975,8 +975,12 @@
 			"registry": "npmjs"
 		}
 	},
-	"_attachments": {},
-	"_rev": "2-783d2817e8fa0e43",
+	"_attachments": {
+		"extend-3.0.2.tgz": {
+			"shasum": "f8b1136b4071fbd8eb140aff858b1019ec2915fa"
+		}
+	},
+	"_rev": "2-1ec72b5ab1fcbdf0",
 	"_id": "extend",
 	"readme": ""
 }

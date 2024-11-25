@@ -14645,7 +14645,7 @@
 	"_uplinks": {
 		"npmjs": {
 			"etag": "W/\"878eb758775608c430f93fbfd1bb35ba\"",
-			"fetched": 1732191165970
+			"fetched": 1732557277027
 		}
 	},
 	"_distfiles": {
@@ -15425,8 +15425,15 @@
 			"registry": "npmjs"
 		}
 	},
-	"_attachments": {},
-	"_rev": "2-e779f63600fe042a",
+	"_attachments": {
+		"glob-7.2.3.tgz": {
+			"shasum": "b8df0fb802bbfa8e89bd1d938b4e16578ed44f2b"
+		},
+		"glob-5.0.15.tgz": {
+			"shasum": "1bc936b9e02f4a603fcc222ecf7633d30b8b93b1"
+		}
+	},
+	"_rev": "3-c92100efbb94af65",
 	"_id": "glob",
 	"readme": ""
 }

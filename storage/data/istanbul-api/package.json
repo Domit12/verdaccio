@@ -5104,7 +5104,7 @@
 	"_uplinks": {
 		"npmjs": {
 			"etag": "W/\"8c0ad8af2c66516d94aca5fbf4599695\"",
-			"fetched": 1732191167336
+			"fetched": 1732557274386
 		}
 	},
 	"_distfiles": {
@@ -5394,8 +5394,12 @@
 			"registry": "npmjs"
 		}
 	},
-	"_attachments": {},
-	"_rev": "2-4e2370c6d7681e0b",
+	"_attachments": {
+		"istanbul-api-1.3.7.tgz": {
+			"shasum": "a86c770d2b03e11e3f778cd7aedd82d2722092aa"
+		}
+	},
+	"_rev": "2-2d47268dc94bd2df",
 	"_id": "istanbul-api",
 	"readme": "# istanbul-api\n\n[![Greenkeeper badge](https://badges.greenkeeper.io/istanbuljs/istanbul-api.svg)](https://greenkeeper.io/)\n[![Build Status](https://travis-ci.org/istanbuljs/istanbul-api.svg?branch=master)](https://travis-ci.org/istanbuljs/istanbul-api)\n\nDeprecated high-level API for istanbul.\n\nRemaining users of this module should migrate:\n\n-   istanbul-lib-instrument or babel-plugin-istanbul - modify sources to include coverage counters\n-   istanbul-lib-coverage - merge coverage results from multiple tests into a single dataset for reporting\n-   istanbul-lib-source-maps - process source-maps before generating reports\n-   istanbul-lib-report - the reporting system\n-   istanbul-reports - the actual reports (text-summary report, html report, etc)"
 }

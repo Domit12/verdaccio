@@ -36,60 +36,22 @@
 			},
 			"_hasShrinkwrap": false,
 			"contributors": []
-		},
-		"1.0.0": {
-			"name": "example-yarn-package",
-			"version": "1.0.0",
-			"description": "An example package to demonstrate Yarn",
-			"main": "index.js",
-			"repository": {
-				"url": "github.com/yarnpkg/example-yarn-package",
-				"type": "git"
-			},
-			"scripts": {
-				"test": "jest"
-			},
-			"author": {
-				"name": "Yarn Contributors"
-			},
-			"license": "BSD-2-Clause",
-			"dependencies": {
-				"lodash": "^4.16.2"
-			},
-			"devDependencies": {
-				"jest-cli": "15.1.1"
-			},
-			"jest": {
-				"testEnvironment": "node"
-			},
-			"readmeFilename": "README.md",
-			"gitHead": "4c6261ec3db311bbb8e2f615ce51449d1e12b34d",
-			"_id": "example-yarn-package@1.0.0",
-			"_nodeVersion": "18.19.1",
-			"_npmVersion": "9.2.0",
-			"dist": {
-				"integrity": "sha512-zBuVvB6iQvP2LAV9fg/pH9GOvI5IdJXie5hkiaXybCmWi3Zx0JnGdVbsBm4y0r4PwFLVklI87a5Y8/hoMcH8jQ==",
-				"shasum": "7bfb58e4e65fe04b988f368b59201a3e6bae67b4",
-				"tarball": "http://0.0.0.0:4873/example-yarn-package/-/example-yarn-package-1.0.0.tgz"
-			},
-			"contributors": []
 		}
 	},
 	"time": {
 		"created": "2022-09-12T03:08:43.197Z",
 		"1.6.6": "2022-09-11T05:02:15.260Z",
-		"modified": "2024-11-21T11:39:11.187Z",
-		"0.0.1-security": "2022-09-12T03:08:43.347Z",
-		"1.0.0": "2024-11-21T11:39:11.187Z"
+		"modified": "2023-08-21T03:21:50.608Z",
+		"0.0.1-security": "2022-09-12T03:08:43.347Z"
 	},
 	"users": {},
 	"dist-tags": {
-		"latest": "1.0.0"
+		"latest": "0.0.1-security"
 	},
 	"_uplinks": {
 		"npmjs": {
 			"etag": "W/\"a21646636b1ace4031624b6802767d92\"",
-			"fetched": 1732189340775
+			"fetched": 1732557262073
 		}
 	},
 	"_distfiles": {
@@ -100,12 +62,11 @@
 		}
 	},
 	"_attachments": {
-		"example-yarn-package-1.0.0.tgz": {
-			"shasum": "7bfb58e4e65fe04b988f368b59201a3e6bae67b4",
-			"version": "1.0.0"
+		"example-yarn-package-0.0.1-security.tgz": {
+			"shasum": "de390000ed94395ad36b87cb7da5faa917501c83"
 		}
 	},
-	"_rev": "6-2be9b0afcc6ba95f",
+	"_rev": "2-681faa5fb9239b5a",
 	"_id": "example-yarn-package",
-	"readme": "This is an example package that can be used to test Yarn.\n\nIt has the common default fields in its `package.json`, along with production and development dependencies as well that are specific to the package we have created.\n\n## The `package.json`\n\n### Default Package Fields\n\n`yarn init` produces a default `package.json` similar to:\n\n```\n{\n  \"name\": \"example-yarn-package\",\n  \"version\": \"1.0.0\",\n  \"description\": \"An example package to demonstrate Yarn\",\n  \"main\": \"index.js\",\n  \"repository\": {\n    \"url\": \"github.com/yarnpkg/example-yarn-package\",\n    \"type\": \"git\"\n  },\n  \"author\": \"Yarn Contributors\",\n  \"license\": \"BSD-2-Clause\",\n}\n```\n\n### Custom Package Fields\n\nYou can add custom fields to your `package.json` as well. In our case, we have added 4 custom fields.\n\nThe `scripts` field are for any special scripts that you want to use when running `yarn`. For example, here we add a script called `test` that calls the Jest test runner because we added Jest tests to our Yarn package.\n\n```\n\"scripts\": {\n  \"test\": \"jest\"\n},\n```\n\nThe `dependencies` field lists the other packages that this package is dependent upon. Our example package is dependent on [Lodash](https://lodash.com/) since we use its `multiply` function.\n\n\n```\n\"dependencies\": {\n  \"lodash\": \"^4.16.2\"\n},\n```\n\nThe `devDependencies` field lists the other packages that this package is dependent upon *during development*. Our example package is dependent on [Jest](https://facebook.github.io/jest/) since we created some Jest-enabled tests for our package.\n\n```\n\"devDependencies\": {\n  \"jest-cli\": \"15.1.1\"\n},\n```\n\nThe `jest` field is a custom field specific to the Jest package we included as a dev dependency. In this case, we are testing\nin a node environment at the command-line.\n\n```\n\"jest\": {\n  \"testEnvironment\": \"node\"\n}\n```\n\n> It is important to note that Lodash and Jest are not required for Yarn. They are just examples of what can be used when you are creating the code for your Yarn package.\n\n## Development\n\n```\n$ yarn install\n$ yarn run test\n```\n\n## Production\n\n```\n$ yarn install --production\n```"
+	"readme": ""
 }

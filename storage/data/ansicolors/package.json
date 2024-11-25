@@ -1,0 +1,389 @@
+{
+	"name": "ansicolors",
+	"versions": {
+		"0.1.0": {
+			"name": "ansicolors",
+			"version": "0.1.0",
+			"description": "Functions that surround a string with ansicolor codes so it prints in color.",
+			"main": "ansicolors.js",
+			"scripts": {
+				"test": "node test/*.js"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/thlorenz/ansicolors.git"
+			},
+			"keywords": [
+				"ansi",
+				"colors",
+				"highlight",
+				"string"
+			],
+			"author": {
+				"name": "Thorsten Lorenz",
+				"email": "thlorenz@gmx.de",
+				"url": "thlorenz.com"
+			},
+			"license": "MIT",
+			"readmeFilename": "README.md",
+			"gitHead": "858847ca28e8b360d9b70eee0592700fa2ab087d",
+			"_id": "ansicolors@0.1.0",
+			"dist": {
+				"shasum": "6a6ac1c95ae33d0d1bc43ebd2f9bfbd2c5242248",
+				"tarball": "https://registry.npmjs.org/ansicolors/-/ansicolors-0.1.0.tgz",
+				"integrity": "sha512-V6Tr/pBhwiePZFRtpL7ELpVzR/SosfSuoiK6W+kpObYcP166eRQMfwmsBdJjuoNfkYlyypNj/LfPpPplt0mDlw==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEUCIQCbAokBR1zpB7Ay2jvIVXtFBCQJnbGXdFZ3xqG3u5ek8AIgW2nx57JDFqF8chk423RVkgYHAY8uZXtlqhHlyfOeVRk="
+					}
+				]
+			},
+			"_npmVersion": "1.1.69",
+			"_npmUser": {
+				"name": "thlorenz",
+				"email": "thlorenz@gmx.de"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"directories": {},
+			"contributors": []
+		},
+		"0.2.0": {
+			"name": "ansicolors",
+			"version": "0.2.0",
+			"description": "Functions that surround a string with ansicolor codes so it prints in color.",
+			"main": "ansicolors.js",
+			"scripts": {
+				"test": "node test/*.js"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/thlorenz/ansicolors.git"
+			},
+			"keywords": [
+				"ansi",
+				"colors",
+				"highlight",
+				"string"
+			],
+			"author": {
+				"name": "Thorsten Lorenz",
+				"email": "thlorenz@gmx.de",
+				"url": "thlorenz.com"
+			},
+			"license": "MIT",
+			"readmeFilename": "README.md",
+			"gitHead": "858847ca28e8b360d9b70eee0592700fa2ab087d",
+			"_id": "ansicolors@0.2.0",
+			"dist": {
+				"shasum": "8bc9bf411277f265d459a1ab4417e92ec0486e08",
+				"tarball": "https://registry.npmjs.org/ansicolors/-/ansicolors-0.2.0.tgz",
+				"integrity": "sha512-0CltMxuMvGh1673UzUbdl57kQ/gvlP0dqcsnEY32oghNFH4g26wOnPPO6GvaFEx6Vx8+ze2fyrLP39SbG+g4Mg==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEQCICygWPQZ+KpF1brc4yJq4EvU3ZfS2qUClE/Iw+rrJ0cwAiB74KvUGvOYyh7XfblEDzdgUNqMSWsUVP2awgooqpOmGw=="
+					}
+				]
+			},
+			"_npmVersion": "1.1.69",
+			"_npmUser": {
+				"name": "thlorenz",
+				"email": "thlorenz@gmx.de"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"directories": {},
+			"contributors": []
+		},
+		"0.2.1": {
+			"name": "ansicolors",
+			"version": "0.2.1",
+			"description": "Functions that surround a string with ansicolor codes so it prints in color.",
+			"main": "ansicolors.js",
+			"scripts": {
+				"test": "node test/*.js"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/thlorenz/ansicolors.git"
+			},
+			"keywords": [
+				"ansi",
+				"colors",
+				"highlight",
+				"string"
+			],
+			"author": {
+				"name": "Thorsten Lorenz",
+				"email": "thlorenz@gmx.de",
+				"url": "thlorenz.com"
+			},
+			"license": "MIT",
+			"readmeFilename": "README.md",
+			"gitHead": "858847ca28e8b360d9b70eee0592700fa2ab087d",
+			"_id": "ansicolors@0.2.1",
+			"dist": {
+				"shasum": "be089599097b74a5c9c4a84a0cdbcdb62bd87aef",
+				"tarball": "https://registry.npmjs.org/ansicolors/-/ansicolors-0.2.1.tgz",
+				"integrity": "sha512-tOIuy1/SK/dr94ZA0ckDohKXNeBNqZ4us6PjMVLs5h1w2GBB6uPtOknp2+VF4F/zcy9LI70W+Z+pE2Soajky1w==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEQCIAMpjgtJnJqkiZxtCZvPE8QUwWnS/qqxPoZWKb0fRP7SAiBCGXPOkEubcN3bzCX3Yth+I5tALSlg4V+OIJSwhKsC0Q=="
+					}
+				]
+			},
+			"_npmVersion": "1.1.69",
+			"_npmUser": {
+				"name": "thlorenz",
+				"email": "thlorenz@gmx.de"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"directories": {},
+			"contributors": []
+		},
+		"0.3.0": {
+			"name": "ansicolors",
+			"version": "0.3.0",
+			"description": "Functions that surround a string with ansicolor codes so it prints in color.",
+			"main": "ansicolors.js",
+			"scripts": {
+				"test": "node test/*.js"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/thlorenz/ansicolors.git"
+			},
+			"keywords": [
+				"ansi",
+				"colors",
+				"highlight",
+				"string"
+			],
+			"author": {
+				"name": "Thorsten Lorenz",
+				"email": "thlorenz@gmx.de",
+				"url": "thlorenz.com"
+			},
+			"license": "MIT",
+			"readmeFilename": "README.md",
+			"gitHead": "858847ca28e8b360d9b70eee0592700fa2ab087d",
+			"bugs": {
+				"url": "https://github.com/thlorenz/ansicolors/issues"
+			},
+			"_id": "ansicolors@0.3.0",
+			"dist": {
+				"shasum": "3d0467ef4b3b3532ec7cc76530784c718fb0030e",
+				"tarball": "https://registry.npmjs.org/ansicolors/-/ansicolors-0.3.0.tgz",
+				"integrity": "sha512-UhKxcXhjtk/hwA2WkCLkaU8/cxQ5mHZ0q1bGLVDUF3YAxt4Zqy1XjYeertmv7L5fkRA380phC4iS9f5GV08PJw==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEYCIQCaGWRAff5LaAzTntdMGtVpvw60CAlrxkJni22C2ldfsAIhANTWmkr7g77Dzb+8HBC1kRFbtgTEIHZkXAuLYjassJ02"
+					}
+				]
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.8",
+			"_npmUser": {
+				"name": "thlorenz",
+				"email": "thlorenz@gmx.de"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"directories": {},
+			"contributors": []
+		},
+		"0.3.1": {
+			"name": "ansicolors",
+			"version": "0.3.1",
+			"description": "Functions that surround a string with ansicolor codes so it prints in color.",
+			"main": "ansicolors.js",
+			"scripts": {
+				"test": "node test/*.js"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/thlorenz/ansicolors.git"
+			},
+			"keywords": [
+				"ansi",
+				"colors",
+				"highlight",
+				"string"
+			],
+			"author": {
+				"name": "Thorsten Lorenz",
+				"email": "thlorenz@gmx.de",
+				"url": "thlorenz.com"
+			},
+			"license": "MIT",
+			"readmeFilename": "README.md",
+			"gitHead": "858847ca28e8b360d9b70eee0592700fa2ab087d",
+			"bugs": {
+				"url": "https://github.com/thlorenz/ansicolors/issues"
+			},
+			"_id": "ansicolors@0.3.1",
+			"dist": {
+				"shasum": "6ce5c146a5ec3d8eef316bdb73b7605f150d2104",
+				"tarball": "https://registry.npmjs.org/ansicolors/-/ansicolors-0.3.1.tgz",
+				"integrity": "sha512-cp+1QqQuxucaAnDxBR/resqVej/8BrjmbLR/FDKwjtv2nydmpcoSiH9QRW9EoVMAu1aFx5haZlT4OCGbchTd/w==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEUCICK1d/mRdGfwXGxtC+YHUZhW9oVhKq0zPHkup0/6HwTbAiEAlLy2Rn7zg0E8E7dEAF1sN6sapHY0noUlf3fsX1mDcqQ="
+					}
+				]
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.11",
+			"_npmUser": {
+				"name": "thlorenz",
+				"email": "thlorenz@gmx.de"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"directories": {},
+			"contributors": []
+		},
+		"0.3.2": {
+			"name": "ansicolors",
+			"version": "0.3.2",
+			"description": "Functions that surround a string with ansicolor codes so it prints in color.",
+			"main": "ansicolors.js",
+			"scripts": {
+				"test": "node test/*.js"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/thlorenz/ansicolors.git"
+			},
+			"keywords": [
+				"ansi",
+				"colors",
+				"highlight",
+				"string"
+			],
+			"author": {
+				"name": "Thorsten Lorenz",
+				"email": "thlorenz@gmx.de",
+				"url": "thlorenz.com"
+			},
+			"license": "MIT",
+			"readmeFilename": "README.md",
+			"gitHead": "858847ca28e8b360d9b70eee0592700fa2ab087d",
+			"bugs": {
+				"url": "https://github.com/thlorenz/ansicolors/issues"
+			},
+			"_id": "ansicolors@0.3.2",
+			"dist": {
+				"shasum": "665597de86a9ffe3aa9bfbe6cae5c6ea426b4979",
+				"tarball": "https://registry.npmjs.org/ansicolors/-/ansicolors-0.3.2.tgz",
+				"integrity": "sha512-QXu7BPrP29VllRxH8GwB7x5iX5qWKAAMLqKQGWTeLWVlNHNOpVMJ91dsxQAIWXpjuW5wqvxu3Jd/nRjrJ+0pqg==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEUCIQChxkwb52XBrWjPhb7dIzMwlJrGxmKBPipmvs7JyV8oeQIgQUztLwV/FJ+0h7R+6XjvTNVSs5kWHAopT4qtNxb7Y4E="
+					}
+				]
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.11",
+			"_npmUser": {
+				"name": "thlorenz",
+				"email": "thlorenz@gmx.de"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"directories": {},
+			"contributors": []
+		}
+	},
+	"time": {
+		"modified": "2023-03-04T03:51:59.736Z",
+		"created": "2013-01-11T03:42:49.592Z",
+		"0.1.0": "2013-01-11T03:42:50.387Z",
+		"0.2.0": "2013-01-12T17:10:32.152Z",
+		"0.2.1": "2013-01-12T18:03:40.949Z",
+		"0.3.0": "2013-11-08T19:18:04.885Z",
+		"0.3.1": "2013-11-24T17:39:34.588Z",
+		"0.3.2": "2013-12-03T15:22:48.261Z"
+	},
+	"users": {},
+	"dist-tags": {
+		"latest": "0.3.2"
+	},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "W/\"7b4937d0d396fc54b282b857187859af\"",
+			"fetched": 1732557280244
+		}
+	},
+	"_distfiles": {
+		"ansicolors-0.1.0.tgz": {
+			"url": "https://registry.npmjs.org/ansicolors/-/ansicolors-0.1.0.tgz",
+			"sha": "6a6ac1c95ae33d0d1bc43ebd2f9bfbd2c5242248",
+			"registry": "npmjs"
+		},
+		"ansicolors-0.2.0.tgz": {
+			"url": "https://registry.npmjs.org/ansicolors/-/ansicolors-0.2.0.tgz",
+			"sha": "8bc9bf411277f265d459a1ab4417e92ec0486e08",
+			"registry": "npmjs"
+		},
+		"ansicolors-0.2.1.tgz": {
+			"url": "https://registry.npmjs.org/ansicolors/-/ansicolors-0.2.1.tgz",
+			"sha": "be089599097b74a5c9c4a84a0cdbcdb62bd87aef",
+			"registry": "npmjs"
+		},
+		"ansicolors-0.3.0.tgz": {
+			"url": "https://registry.npmjs.org/ansicolors/-/ansicolors-0.3.0.tgz",
+			"sha": "3d0467ef4b3b3532ec7cc76530784c718fb0030e",
+			"registry": "npmjs"
+		},
+		"ansicolors-0.3.1.tgz": {
+			"url": "https://registry.npmjs.org/ansicolors/-/ansicolors-0.3.1.tgz",
+			"sha": "6ce5c146a5ec3d8eef316bdb73b7605f150d2104",
+			"registry": "npmjs"
+		},
+		"ansicolors-0.3.2.tgz": {
+			"url": "https://registry.npmjs.org/ansicolors/-/ansicolors-0.3.2.tgz",
+			"sha": "665597de86a9ffe3aa9bfbe6cae5c6ea426b4979",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {
+		"ansicolors-0.3.2.tgz": {
+			"shasum": "665597de86a9ffe3aa9bfbe6cae5c6ea426b4979"
+		}
+	},
+	"_rev": "2-c456dc142ff1a65e",
+	"_id": "ansicolors",
+	"readme": "# ansicolors [![build status](https://secure.travis-ci.org/thlorenz/ansicolors.png)](http://next.travis-ci.org/thlorenz/ansicolors)\n\nFunctions that surround a string with ansicolor codes so it prints in color.\n\n## Installation\n\n    npm install ansicolors\n\n## Usage\n\n```js\nvar colors = require('ansicolors');\n\nvar redHerring = colors.red('herring');\nvar blueMoon = colors.blue('moon');\nvar brighBlueMoon = colors.brightBlue('moon');\n\nconsole.log(redHerring);      // this will print 'herring' in red\nconsole.log(blueMoon);        // this 'moon' in blue\nconsole.log(brightBlueMoon);  // I think you got the idea\n```\n\n## Tests\n\nLook at the [tests](https://github.com/thlorenz/ansicolors/blob/master/test/ansicolors.js) to see more examples and/or run them via: \n\n    npm explore ansicolors && npm test"
+}

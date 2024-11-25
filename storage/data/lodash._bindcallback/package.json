@@ -1,0 +1,209 @@
+{
+	"name": "lodash._bindcallback",
+	"versions": {
+		"3.0.0": {
+			"name": "lodash._bindcallback",
+			"version": "3.0.0",
+			"description": "The modern build of lodash’s internal `bindCallback` as a module.",
+			"homepage": "https://lodash.com/",
+			"icon": "https://lodash.com/icon.svg",
+			"license": "MIT",
+			"author": {
+				"name": "John-David Dalton",
+				"email": "john.david.dalton@gmail.com",
+				"url": "http://allyoucanleet.com/"
+			},
+			"contributors": [
+				{
+					"name": "John-David Dalton",
+					"email": "john.david.dalton@gmail.com",
+					"url": "http://allyoucanleet.com/"
+				},
+				{
+					"name": "Benjamin Tan",
+					"email": "demoneaux@gmail.com",
+					"url": "https://d10.github.io/"
+				},
+				{
+					"name": "Blaine Bublitz",
+					"email": "blaine@iceddev.com",
+					"url": "http://www.iceddev.com/"
+				},
+				{
+					"name": "Kit Cambridge",
+					"email": "github@kitcambridge.be",
+					"url": "http://kitcambridge.be/"
+				},
+				{
+					"name": "Mathias Bynens",
+					"email": "mathias@qiwi.be",
+					"url": "https://mathiasbynens.be/"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/lodash/lodash"
+			},
+			"scripts": {
+				"test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+			},
+			"bugs": {
+				"url": "https://github.com/lodash/lodash/issues"
+			},
+			"_id": "lodash._bindcallback@3.0.0",
+			"_shasum": "1587dfa157634c13f8ae2a60c1bd5517c1800937",
+			"_from": ".",
+			"_npmVersion": "2.3.0",
+			"_nodeVersion": "0.10.35",
+			"_npmUser": {
+				"name": "jdalton",
+				"email": "john.david.dalton@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jdalton",
+					"email": "john.david.dalton@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "1587dfa157634c13f8ae2a60c1bd5517c1800937",
+				"tarball": "https://registry.npmjs.org/lodash._bindcallback/-/lodash._bindcallback-3.0.0.tgz",
+				"integrity": "sha512-bG2vrun3zeEqn3j+NuZp2uTi668tT/pomnAJUcFieUgKTtFMCGQAacira5VQfdOAJuXLKF6l/tGhXEyIcnNPiw==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEQCIF1abC8cGhGN3dTB0ufG1aQakKvuRDO9jVO60bZ1Pq9+AiB7QKFxPjJEqd9OjgooEHawIJPJm2kK6zFhLrBsnueu7w=="
+					}
+				]
+			}
+		},
+		"3.0.1": {
+			"name": "lodash._bindcallback",
+			"version": "3.0.1",
+			"description": "The modern build of lodash’s internal `bindCallback` as a module.",
+			"homepage": "https://lodash.com/",
+			"icon": "https://lodash.com/icon.svg",
+			"license": "MIT",
+			"author": {
+				"name": "John-David Dalton",
+				"email": "john.david.dalton@gmail.com",
+				"url": "http://allyoucanleet.com/"
+			},
+			"contributors": [
+				{
+					"name": "John-David Dalton",
+					"email": "john.david.dalton@gmail.com",
+					"url": "http://allyoucanleet.com/"
+				},
+				{
+					"name": "Benjamin Tan",
+					"email": "demoneaux@gmail.com",
+					"url": "https://d10.github.io/"
+				},
+				{
+					"name": "Blaine Bublitz",
+					"email": "blaine@iceddev.com",
+					"url": "http://www.iceddev.com/"
+				},
+				{
+					"name": "Kit Cambridge",
+					"email": "github@kitcambridge.be",
+					"url": "http://kitcambridge.be/"
+				},
+				{
+					"name": "Mathias Bynens",
+					"email": "mathias@qiwi.be",
+					"url": "https://mathiasbynens.be/"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/lodash/lodash"
+			},
+			"scripts": {
+				"test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+			},
+			"bugs": {
+				"url": "https://github.com/lodash/lodash/issues"
+			},
+			"_id": "lodash._bindcallback@3.0.1",
+			"_shasum": "e531c27644cf8b57a99e17ed95b35c748789392e",
+			"_from": ".",
+			"_npmVersion": "2.7.6",
+			"_nodeVersion": "0.12.2",
+			"_npmUser": {
+				"name": "jdalton",
+				"email": "john.david.dalton@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jdalton",
+					"email": "john.david.dalton@gmail.com"
+				},
+				{
+					"name": "d10",
+					"email": "demoneaux@gmail.com"
+				},
+				{
+					"name": "kitcambridge",
+					"email": "github@kitcambridge.be"
+				},
+				{
+					"name": "mathias",
+					"email": "mathias@qiwi.be"
+				},
+				{
+					"name": "phated",
+					"email": "blaine@iceddev.com"
+				}
+			],
+			"dist": {
+				"shasum": "e531c27644cf8b57a99e17ed95b35c748789392e",
+				"tarball": "https://registry.npmjs.org/lodash._bindcallback/-/lodash._bindcallback-3.0.1.tgz",
+				"integrity": "sha512-2wlI0JRAGX8WEf4Gm1p/mv/SZ+jLijpj0jyaE/AXeuQphzCgD8ZQW4oSpoN8JAopujOFGU3KMuq7qfHBWlGpjQ==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEQCIEoz7LNymQwLieQZ0GerWeOQbzioT7yLLngbhHjN8VlvAiAtGXy8txt+Y8QDGvA1ynZxYM69YGhuV+X3rK0L/+2b4Q=="
+					}
+				]
+			}
+		}
+	},
+	"time": {
+		"modified": "2022-06-19T13:32:19.114Z",
+		"created": "2015-01-26T15:28:10.771Z",
+		"3.0.0": "2015-01-26T15:28:10.771Z",
+		"3.0.1": "2015-04-16T16:27:39.919Z"
+	},
+	"users": {},
+	"dist-tags": {
+		"latest": "3.0.1"
+	},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "W/\"11c2b99390b466171a004c32029aaeb7\"",
+			"fetched": 1732557277497
+		}
+	},
+	"_distfiles": {
+		"lodash._bindcallback-3.0.0.tgz": {
+			"url": "https://registry.npmjs.org/lodash._bindcallback/-/lodash._bindcallback-3.0.0.tgz",
+			"sha": "1587dfa157634c13f8ae2a60c1bd5517c1800937",
+			"registry": "npmjs"
+		},
+		"lodash._bindcallback-3.0.1.tgz": {
+			"url": "https://registry.npmjs.org/lodash._bindcallback/-/lodash._bindcallback-3.0.1.tgz",
+			"sha": "e531c27644cf8b57a99e17ed95b35c748789392e",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {
+		"lodash._bindcallback-3.0.1.tgz": {
+			"shasum": "e531c27644cf8b57a99e17ed95b35c748789392e"
+		}
+	},
+	"_rev": "2-96405e9200ea4f94",
+	"_id": "lodash._bindcallback",
+	"readme": "# lodash._bindcallback v3.0.1\n\nThe [modern build](https://github.com/lodash/lodash/wiki/Build-Differences) of [lodash’s](https://lodash.com/) internal `bindCallback` exported as a [Node.js](http://nodejs.org/)/[io.js](https://iojs.org/) module.\n\n## Installation\n\nUsing npm:\n\n```bash\n$ {sudo -H} npm i -g npm\n$ npm i --save lodash._bindcallback\n```\n\nIn Node.js/io.js:\n\n```js\nvar bindCallback = require('lodash._bindcallback');\n```\n\nSee the [package source](https://github.com/lodash/lodash/blob/3.0.1-npm-packages/lodash._bindcallback) for more details."
+}

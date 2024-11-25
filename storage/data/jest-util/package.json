@@ -21407,7 +21407,7 @@
 	"_uplinks": {
 		"npmjs": {
 			"etag": "W/\"dd58630d20dadc46e0f0b146373fa854\"",
-			"fetched": 1732191165578
+			"fetched": 1732557274268
 		}
 	},
 	"_distfiles": {
@@ -22717,8 +22717,12 @@
 			"registry": "npmjs"
 		}
 	},
-	"_attachments": {},
-	"_rev": "2-9714e266b32c543c",
+	"_attachments": {
+		"jest-util-15.1.1.tgz": {
+			"shasum": "5e19edab2c573f992c9d45ba118fa8d90f9d220e"
+		}
+	},
+	"_rev": "2-705d9c6628c07df4",
 	"_id": "jest-util",
 	"readme": ""
 }

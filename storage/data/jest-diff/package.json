@@ -18419,7 +18419,7 @@
 	"_uplinks": {
 		"npmjs": {
 			"etag": "W/\"9cf1e8944f963b0e4c0a9987ce4410d4\"",
-			"fetched": 1732191165548
+			"fetched": 1732557276464
 		}
 	},
 	"_distfiles": {
@@ -19574,8 +19574,12 @@
 			"registry": "npmjs"
 		}
 	},
-	"_attachments": {},
-	"_rev": "2-8d85bb0fd081de26",
+	"_attachments": {
+		"jest-diff-15.1.0.tgz": {
+			"shasum": "bda40ad77c6beec1e6b8b5e46e3bbaed6e81c9f4"
+		}
+	},
+	"_rev": "2-47842ad68297c874",
 	"_id": "jest-diff",
 	"readme": ""
 }

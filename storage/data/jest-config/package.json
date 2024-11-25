@@ -29299,7 +29299,7 @@
 	"_uplinks": {
 		"npmjs": {
 			"etag": "W/\"7963ebc12c711c192766fb0f9558350d\"",
-			"fetched": 1732191172067
+			"fetched": 1732557274476
 		}
 	},
 	"_distfiles": {
@@ -30839,8 +30839,12 @@
 			"registry": "npmjs"
 		}
 	},
-	"_attachments": {},
-	"_rev": "2-dcaaf8495d91b87d",
+	"_attachments": {
+		"jest-config-15.1.1.tgz": {
+			"shasum": "abdbe5b4a49a404d04754d42d7d88b94e58009f7"
+		}
+	},
+	"_rev": "2-d299dfdc18d1ed83",
 	"_id": "jest-config",
 	"readme": ""
 }

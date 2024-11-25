@@ -1,0 +1,555 @@
+{
+	"name": "jasmine-check",
+	"versions": {
+		"0.1.0": {
+			"name": "jasmine-check",
+			"version": "0.1.0",
+			"description": "Generative property tests for Jasmine",
+			"homepage": "https://github.com/leebyron/jasmine-check",
+			"author": {
+				"name": "Lee Byron",
+				"url": "https://github.com/leebyron"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/leebyron/jasmine-check"
+			},
+			"bugs": {
+				"url": "https://github.com/leebyron/jasmine-check/issues"
+			},
+			"main": "jasmine-check.js",
+			"dependencies": {
+				"testcheck": "^0.1.0"
+			},
+			"devDependencies": {
+				"jasmine-node": "^1.14.5"
+			},
+			"files": [
+				"jasmine-check.js",
+				"README.md",
+				"LICENSE"
+			],
+			"keywords": [
+				"jasmine",
+				"quickcheck",
+				"testcheck",
+				"generative",
+				"property",
+				"test"
+			],
+			"scripts": {
+				"test": "jasmine-node spec/"
+			},
+			"license": "BSD",
+			"_id": "jasmine-check@0.1.0",
+			"dist": {
+				"shasum": "dc356e3547f6776548c2378d76c70776312317a6",
+				"tarball": "https://registry.npmjs.org/jasmine-check/-/jasmine-check-0.1.0.tgz",
+				"integrity": "sha512-6UAQhFAwmT8nk/1UPZUapdFdkGiUmft+57uNy9fnPd8EOlC3JUSC/8jZnrzI/YMe2QZ/wUXzFHTZeSOCCdluuQ==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEYCIQCyKuKejrI7u9yaWMUPaUxBQsXd5voQ6QuQlwiaXVZsKAIhAJvLF38YSBs7Nm+dCklOgxkPiwi4z4Jz9dYW3GJG9/2L"
+					}
+				]
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.3",
+			"_npmUser": {
+				"name": "leebyron",
+				"email": "lee@leebyron.com"
+			},
+			"maintainers": [
+				{
+					"name": "leebyron",
+					"email": "lee@leebyron.com"
+				}
+			],
+			"contributors": []
+		},
+		"0.1.1": {
+			"name": "jasmine-check",
+			"version": "0.1.1",
+			"description": "Generative property tests for Jasmine",
+			"homepage": "https://github.com/leebyron/jasmine-check",
+			"author": {
+				"name": "Lee Byron",
+				"url": "https://github.com/leebyron"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/leebyron/jasmine-check"
+			},
+			"bugs": {
+				"url": "https://github.com/leebyron/jasmine-check/issues"
+			},
+			"main": "jasmine-check.js",
+			"dependencies": {
+				"testcheck": "^0.1.0"
+			},
+			"devDependencies": {
+				"jasmine-node": "^1.14.5"
+			},
+			"files": [
+				"jasmine-check.js",
+				"README.md",
+				"LICENSE"
+			],
+			"keywords": [
+				"jasmine",
+				"quickcheck",
+				"testcheck",
+				"generative",
+				"property",
+				"test"
+			],
+			"scripts": {
+				"test": "jasmine-node spec/"
+			},
+			"license": "BSD",
+			"_id": "jasmine-check@0.1.1",
+			"dist": {
+				"shasum": "233b2ca79d19fc921b090e4230976ac2eab8cf7c",
+				"tarball": "https://registry.npmjs.org/jasmine-check/-/jasmine-check-0.1.1.tgz",
+				"integrity": "sha512-H3OVAjTDCvJZk/5Z8Q+zHZHnTtZ/gYUewolMc4qeOFXgJq5hjNonMVsvp5jHOzmwIIMB2kSsouqP8+RX3zpI0g==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEUCIQCe6uIe3auGJ2Vt6fJoBz0YcQUjaqpZ980TpHOIAepGqgIgAYwDwcoCkRQ9YaC6Qs2/dMtKAQ2GgrU8HBL54M4GFkQ="
+					}
+				]
+			},
+			"_from": "./",
+			"_npmVersion": "1.4.3",
+			"_npmUser": {
+				"name": "leebyron",
+				"email": "lee@leebyron.com"
+			},
+			"maintainers": [
+				{
+					"name": "leebyron",
+					"email": "lee@leebyron.com"
+				}
+			],
+			"contributors": []
+		},
+		"0.1.2": {
+			"name": "jasmine-check",
+			"version": "0.1.2",
+			"description": "Generative property tests for Jasmine",
+			"homepage": "https://github.com/leebyron/jasmine-check",
+			"author": {
+				"name": "Lee Byron",
+				"url": "https://github.com/leebyron"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/leebyron/jasmine-check"
+			},
+			"bugs": {
+				"url": "https://github.com/leebyron/jasmine-check/issues"
+			},
+			"main": "jasmine-check.js",
+			"dependencies": {
+				"testcheck": "^0.1.0"
+			},
+			"devDependencies": {
+				"jasmine-node": "^1.14.5"
+			},
+			"files": [
+				"jasmine-check.js",
+				"README.md",
+				"LICENSE"
+			],
+			"keywords": [
+				"jasmine",
+				"quickcheck",
+				"testcheck",
+				"generative",
+				"property",
+				"test"
+			],
+			"scripts": {
+				"test": "jasmine-node spec/"
+			},
+			"license": "BSD",
+			"_id": "jasmine-check@0.1.2",
+			"dist": {
+				"shasum": "b2bc310c43e999d61e7a4df08a42bd49e9a7ce55",
+				"tarball": "https://registry.npmjs.org/jasmine-check/-/jasmine-check-0.1.2.tgz",
+				"integrity": "sha512-hOFrOu3UTF0VHp28Svsjf3diWsDz7Mjw9xNv8mR+j35BsxZTfDZZSsjjcwf+8Z7ypJnisN28hZKZHcJLVjQ78g==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEUCIHEtAD8WYomx6bXZ+R+8enUf+tIhR+POEuYUmEOKN4UbAiEA74ePt+Nrc/8Riz6xcUXsqXOdMmsolHWG+lTEZ+2QdeQ="
+					}
+				]
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.3",
+			"_npmUser": {
+				"name": "leebyron",
+				"email": "lee@leebyron.com"
+			},
+			"maintainers": [
+				{
+					"name": "leebyron",
+					"email": "lee@leebyron.com"
+				}
+			],
+			"contributors": []
+		},
+		"0.1.3": {
+			"name": "jasmine-check",
+			"version": "0.1.3",
+			"description": "Generative property tests for Jasmine",
+			"homepage": "https://github.com/leebyron/jasmine-check",
+			"author": {
+				"name": "Lee Byron",
+				"url": "https://github.com/leebyron"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/leebyron/jasmine-check"
+			},
+			"bugs": {
+				"url": "https://github.com/leebyron/jasmine-check/issues"
+			},
+			"main": "jasmine-check.js",
+			"dependencies": {
+				"testcheck": "^0.1.0"
+			},
+			"devDependencies": {
+				"jasmine-node": "^1.14.5"
+			},
+			"files": [
+				"jasmine-check.js",
+				"README.md",
+				"LICENSE"
+			],
+			"keywords": [
+				"jasmine",
+				"quickcheck",
+				"testcheck",
+				"generative",
+				"property",
+				"test"
+			],
+			"scripts": {
+				"test": "jasmine-node spec/"
+			},
+			"license": "BSD",
+			"_id": "jasmine-check@0.1.3",
+			"dist": {
+				"shasum": "4cf58ff7524bb6668d023b6814153fd6f76efdad",
+				"tarball": "https://registry.npmjs.org/jasmine-check/-/jasmine-check-0.1.3.tgz",
+				"integrity": "sha512-OyJABsPCQYYcvvv723GPRQe2iFxVFawN3p0MniJ3ekI7i6pyjCP6n7rjQZiUCkMrunyzb0GeRLvxs4SgSIVhUg==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEQCICcHwC96It52NLwt7KGfCGRbd6U6UVWeEOAw7/7We+afAiBXBoxRYIuYDUF7up7mavTXdZc8AnFUs8JfGLVm1AoJ2A=="
+					}
+				]
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.3",
+			"_npmUser": {
+				"name": "leebyron",
+				"email": "lee@leebyron.com"
+			},
+			"maintainers": [
+				{
+					"name": "leebyron",
+					"email": "lee@leebyron.com"
+				}
+			],
+			"contributors": []
+		},
+		"0.1.4": {
+			"name": "jasmine-check",
+			"version": "0.1.4",
+			"description": "Generative property tests for Jasmine",
+			"homepage": "https://github.com/leebyron/jasmine-check",
+			"author": {
+				"name": "Lee Byron",
+				"url": "https://github.com/leebyron"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/leebyron/jasmine-check.git"
+			},
+			"bugs": {
+				"url": "https://github.com/leebyron/jasmine-check/issues"
+			},
+			"main": "jasmine-check.js",
+			"dependencies": {
+				"testcheck": "^0.1.0"
+			},
+			"devDependencies": {
+				"jasmine-node": "^1.14.5"
+			},
+			"files": [
+				"jasmine-check.js",
+				"README.md",
+				"LICENSE"
+			],
+			"keywords": [
+				"jasmine",
+				"quickcheck",
+				"testcheck",
+				"generative",
+				"property",
+				"test"
+			],
+			"scripts": {
+				"test": "jasmine-node spec/"
+			},
+			"license": "BSD",
+			"gitHead": "24e630ba8f1ab94558062ae353c348a89abae825",
+			"_id": "jasmine-check@0.1.4",
+			"_shasum": "4f1322306a3a00a625642b6fec48a3ac9307fb8a",
+			"_from": ".",
+			"_npmVersion": "3.8.9",
+			"_nodeVersion": "6.2.0",
+			"_npmUser": {
+				"name": "leebyron",
+				"email": "lee@leebyron.com"
+			},
+			"dist": {
+				"shasum": "4f1322306a3a00a625642b6fec48a3ac9307fb8a",
+				"tarball": "https://registry.npmjs.org/jasmine-check/-/jasmine-check-0.1.4.tgz",
+				"integrity": "sha512-eFt9AzYdmwIcTSmHJwAZSAkze2MWTkKw5WcoHaw/6xlFybHtEGo2CxXI4xH71LysUSvJ7V/NXRrqLcw+DmpXsA==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEYCIQCvPvZL1kmyUMxe5PQFcY0JMSt05C8rM7jxFI4ElcCoCAIhAJIOvf5X1gjYCQ5DSULhvt9DGig69ys3OJYvDQRn0F66"
+					}
+				]
+			},
+			"maintainers": [
+				{
+					"name": "leebyron",
+					"email": "lee@leebyron.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/jasmine-check-0.1.4.tgz_1464717091245_0.7190135812852532"
+			},
+			"contributors": []
+		},
+		"0.1.5": {
+			"name": "jasmine-check",
+			"version": "0.1.5",
+			"description": "Generative property tests for Jasmine",
+			"homepage": "https://github.com/leebyron/jasmine-check",
+			"author": {
+				"name": "Lee Byron",
+				"url": "https://github.com/leebyron"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/leebyron/jasmine-check.git"
+			},
+			"bugs": {
+				"url": "https://github.com/leebyron/jasmine-check/issues"
+			},
+			"main": "jasmine-check.js",
+			"dependencies": {
+				"testcheck": "^0.1.0"
+			},
+			"devDependencies": {
+				"jasmine-node": "^1.14.5"
+			},
+			"files": [
+				"jasmine-check.js",
+				"README.md",
+				"LICENSE"
+			],
+			"keywords": [
+				"jasmine",
+				"quickcheck",
+				"testcheck",
+				"generative",
+				"property",
+				"test"
+			],
+			"scripts": {
+				"test": "jasmine-node spec/"
+			},
+			"license": "BSD",
+			"gitHead": "3dee360803118024c5b2068adc3d80d9d995af84",
+			"_id": "jasmine-check@0.1.5",
+			"_shasum": "dbad7eec56261c4b3d175ada55fe59b09ac9e415",
+			"_from": ".",
+			"_npmVersion": "3.8.9",
+			"_nodeVersion": "6.2.0",
+			"_npmUser": {
+				"name": "leebyron",
+				"email": "lee@leebyron.com"
+			},
+			"dist": {
+				"shasum": "dbad7eec56261c4b3d175ada55fe59b09ac9e415",
+				"tarball": "https://registry.npmjs.org/jasmine-check/-/jasmine-check-0.1.5.tgz",
+				"integrity": "sha512-iI5m7mfQ0pLZPHQzsh9nGjhnZ7PnCNsn1464J8uX6dGFbc7kK5eGQctgdyOkf9/ofqwz74ek6iz+TswzG6dVfQ==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEQCIDDACNjofogKkVKCcDrN4CG8zvy6neD7Q7r7m80Xq20GAiBkCBT6q7jHEB3J2s+q6uNXGXVMQltD+/RTtB1PDzUXwA=="
+					}
+				]
+			},
+			"maintainers": [
+				{
+					"name": "leebyron",
+					"email": "lee@leebyron.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jasmine-check-0.1.5.tgz_1464724724529_0.6778640132397413"
+			},
+			"contributors": []
+		},
+		"1.0.0-rc.0": {
+			"name": "jasmine-check",
+			"version": "1.0.0-rc.0",
+			"description": "Generative property tests for Jasmine",
+			"homepage": "https://github.com/leebyron/testcheck-js/tree/master/integrations/jasmine-check",
+			"license": "BSD-3-Clause",
+			"author": {
+				"name": "Lee Byron",
+				"url": "https://github.com/leebyron"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/leebyron/testcheck-js.git"
+			},
+			"bugs": {
+				"url": "https://github.com/leebyron/testcheck-js/issues"
+			},
+			"main": "jasmine-check.js",
+			"dependencies": {
+				"testcheck": "^1.0.0-rc"
+			},
+			"devDependencies": {
+				"jasmine": "^2.5.2",
+				"jasmine-node": "^1.14.5",
+				"jest-cli": "^18.0.0"
+			},
+			"files": [
+				"jasmine-check.js",
+				"README.md",
+				"LICENSE"
+			],
+			"keywords": [
+				"jasmine",
+				"quickcheck",
+				"testcheck",
+				"generative",
+				"property",
+				"test"
+			],
+			"scripts": {
+				"test": "jasmine && jasmine-node spec && jest"
+			},
+			"_id": "jasmine-check@1.0.0-rc.0",
+			"_shasum": "117728c150078ecf211986c5f164275b71e937a4",
+			"_from": ".",
+			"_npmVersion": "4.2.0",
+			"_nodeVersion": "7.9.0",
+			"_npmUser": {
+				"name": "leebyron",
+				"email": "lee@leebyron.com"
+			},
+			"dist": {
+				"shasum": "117728c150078ecf211986c5f164275b71e937a4",
+				"tarball": "https://registry.npmjs.org/jasmine-check/-/jasmine-check-1.0.0-rc.0.tgz",
+				"integrity": "sha512-V11aKvbAAEN34vVMRQVqylq3j8kw1Hmkf8JOVLYPcVpQX1jZ5pQPTYwbSnjMEjuRp5XQnI0qOqd2yosJoH7Vzw==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEYCIQD5tIKJCe26GHwVHMX2/N9i/UCpoo68SQ103I4n1V5DewIhANxXPuVLBshx0qvXYJQPdxN3/2w/YiTb8K2Sr8q9lV8f"
+					}
+				]
+			},
+			"maintainers": [
+				{
+					"name": "leebyron",
+					"email": "lee@leebyron.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/jasmine-check-1.0.0-rc.0.tgz_1493185764086_0.6163193590473384"
+			},
+			"contributors": []
+		}
+	},
+	"time": {
+		"modified": "2022-06-19T03:45:30.982Z",
+		"created": "2014-08-13T00:39:14.419Z",
+		"0.1.0": "2014-08-13T00:39:14.419Z",
+		"0.1.1": "2014-08-13T02:57:47.453Z",
+		"0.1.2": "2014-08-13T03:03:35.746Z",
+		"0.1.3": "2014-08-13T06:51:03.370Z",
+		"0.1.4": "2016-05-31T17:51:33.503Z",
+		"0.1.5": "2016-05-31T19:58:44.951Z",
+		"1.0.0-rc.0": "2017-04-26T05:49:26.086Z"
+	},
+	"users": {},
+	"dist-tags": {
+		"latest": "1.0.0-rc.0"
+	},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "W/\"5a1f98bc71fc08b837d296635de923b0\"",
+			"fetched": 1732557276533
+		}
+	},
+	"_distfiles": {
+		"jasmine-check-0.1.0.tgz": {
+			"url": "https://registry.npmjs.org/jasmine-check/-/jasmine-check-0.1.0.tgz",
+			"sha": "dc356e3547f6776548c2378d76c70776312317a6",
+			"registry": "npmjs"
+		},
+		"jasmine-check-0.1.1.tgz": {
+			"url": "https://registry.npmjs.org/jasmine-check/-/jasmine-check-0.1.1.tgz",
+			"sha": "233b2ca79d19fc921b090e4230976ac2eab8cf7c",
+			"registry": "npmjs"
+		},
+		"jasmine-check-0.1.2.tgz": {
+			"url": "https://registry.npmjs.org/jasmine-check/-/jasmine-check-0.1.2.tgz",
+			"sha": "b2bc310c43e999d61e7a4df08a42bd49e9a7ce55",
+			"registry": "npmjs"
+		},
+		"jasmine-check-0.1.3.tgz": {
+			"url": "https://registry.npmjs.org/jasmine-check/-/jasmine-check-0.1.3.tgz",
+			"sha": "4cf58ff7524bb6668d023b6814153fd6f76efdad",
+			"registry": "npmjs"
+		},
+		"jasmine-check-0.1.4.tgz": {
+			"url": "https://registry.npmjs.org/jasmine-check/-/jasmine-check-0.1.4.tgz",
+			"sha": "4f1322306a3a00a625642b6fec48a3ac9307fb8a",
+			"registry": "npmjs"
+		},
+		"jasmine-check-0.1.5.tgz": {
+			"url": "https://registry.npmjs.org/jasmine-check/-/jasmine-check-0.1.5.tgz",
+			"sha": "dbad7eec56261c4b3d175ada55fe59b09ac9e415",
+			"registry": "npmjs"
+		},
+		"jasmine-check-1.0.0-rc.0.tgz": {
+			"url": "https://registry.npmjs.org/jasmine-check/-/jasmine-check-1.0.0-rc.0.tgz",
+			"sha": "117728c150078ecf211986c5f164275b71e937a4",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {
+		"jasmine-check-0.1.5.tgz": {
+			"shasum": "dbad7eec56261c4b3d175ada55fe59b09ac9e415"
+		}
+	},
+	"_rev": "2-f49ff249777148ec",
+	"_id": "jasmine-check",
+	"readme": "Generative property testing for Jasmine\n=======================================\n\n`jasmine-check` adds the generative testing power of [`testcheck-js`](https://github.com/leebyron/testcheck-js)\nto [Jasmine](http://jasmine.github.io/). This allows some of your Jasmine tests\nto accept arguments and ensure your tests pass not just under your contrived\ntest cases but also pass for hundreds of randomly generated test cases.\n\n\nGetting started\n---------------\n\nInstall `jasmine-check` using npm.\n\n```shell\nnpm install jasmine-check\n```\n\nThen include and install `jasmine-check` before your test suite.\n\n```javascript\nrequire('jasmine-check').install();\n```\n\n\nExample\n-------\n\n```javascript\nrequire('jasmine-check').install();\n\ndescribe('MySpec', () => {\n\n  check.it('accepts an int and a string', gen.int, gen.string, (x, y) => {\n    expect(x).toEqual(jasmine.any(Number));\n    expect(y).toEqual(jasmine.any(String));\n  });\n\n});\n```\n\nThe `gen` global object is provided directly by `testcheck-js` and defines what\ntype of random values to generate. The test will be run numerous times with\ndifferent random values, ensuring all expectations are met for every run. If a\ntest expectation fails, then the test will re-run with \"smaller\" values until\nthe smallest failing value is found which can better help explain edge cases\nwith your test and produce consistent results, despite being initially fueled\nby randomness.\n\n### Options\n\nIf a test is taking a long time, needs to generate larger values, or should be\nrun with a consistent random seed, you can alter the behavior with `options`:\n\n```js\n{\n  times: number;   // the number of test cases to run. Default: 100\n  maxSize: number; // the maximum \"size\" of the test data. Default: 200\n  seed: number;    // defaults to a random value from 1 to 2^32-1.\n}\n```\n\nTo use these options with your check, include an options object after\nthe description:\n\n```js\ncheck.it('runs 10 times', {times: 10}, gen.sPosInt, x => {\n  expect(x).toBeGreaterThan(0);\n});\n```\n\nTo learn more about property testing, or to learn about the available value\ngenerators, check out [`testcheck-js`](https://github.com/leebyron/testcheck-js)."
+}

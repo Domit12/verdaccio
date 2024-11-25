@@ -2654,7 +2654,7 @@
 	"_uplinks": {
 		"npmjs": {
 			"etag": "W/\"b69e207b4cbfcc285594ffa0341e5db8\"",
-			"fetched": 1732191164331
+			"fetched": 1732557275184
 		}
 	},
 	"_distfiles": {
@@ -2814,8 +2814,12 @@
 			"registry": "npmjs"
 		}
 	},
-	"_attachments": {},
-	"_rev": "2-d87e1c49d443509c",
+	"_attachments": {
+		"minimist-1.2.8.tgz": {
+			"shasum": "c1a464e7693302e082a075cee0c057741ac4772c"
+		}
+	},
+	"_rev": "2-00b330d88ceea4bd",
 	"_id": "minimist",
 	"readme": ""
 }
